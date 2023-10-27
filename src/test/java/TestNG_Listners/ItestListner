@@ -1,0 +1,15 @@
+iTestListeners in TestNG:-
+
+1] onTestStart(): It is invoked only when any test method gets started.
+
+2]onTestSuccess(): It is invoked only when success of method.
+
+3]onTestFailure(): It is invoked only when failure of method.
+
+4]onTestSkipped(): It is invoked only when method is skipped.
+
+5]onStart(): It is invoked only when on the start of any test method.
+
+6] onFinish(): It is invoked only when any test method finishes it's execution.
+
+7] onTestFailedButWithinSuccessPercentage(): It is invoked only when failure of method but within success percentage.

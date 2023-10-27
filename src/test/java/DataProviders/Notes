@@ -1,0 +1,24 @@
+Data Providers:-
+
+1]They are used to provide the data to the test methods in TestNG.
+
+2]Using Data provider we can can easily inject multiple values into the same test case.
+
+3]It comes in-built in TestNG framework & popularly used in data driven frameworks.
+
+SYNTAX
+
+@DataProvider(name="name of DP")
+public Object[][] dataProvider(){
+
+return new Object[][]{values}
+
+}
+
+* DataProvider annotation has only single attribute that is "name".
+
+* DataProvider are separate methods used in test functions,this annotation is not used on test function like testNG parameters.
+
+*DataProvider returns a 2D list of Objects.
+
+*In case you don't define name of DataProvider method , DataProvider method name is considers it's default name.

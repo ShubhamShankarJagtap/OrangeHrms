@@ -1,0 +1,12 @@
+HTTP COOKIE:-
+
+1] An http cookie comprised of information about users and their references.
+
+2] It is a small piece of data sent from web application to web browser, while user is browsing the website that has cookie enabled.
+
+3] The data is stored in the cache folder of the browser.
+
+______________________________________________________________________________________________________
+
+driver.manage().getCookies
+

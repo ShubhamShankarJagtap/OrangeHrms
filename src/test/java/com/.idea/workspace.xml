@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96327ea0-77b1-4cf3-849f-c313092b7eea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../main/java/com/Reusable_Methods/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoginModule/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PIM_Module/PIM_module.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recruitment_Module/Recruitment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/AnnotationsAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/Automobile_Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/Personal_Loan.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2QViJK7GzCkGlgGWmwxZdD5uPXK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "F:/IntelliJ_IDEA_WorkSpace_2023/OrangeHrm/src/test/java/com"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96327ea0-77b1-4cf3-849f-c313092b7eea" name="Changes" comment="" />
+      <created>1685445076578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685445076578</updated>
+    </task>
+    <servers />
+  </component>
+</project>

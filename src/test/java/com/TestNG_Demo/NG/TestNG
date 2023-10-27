@@ -1,0 +1,37 @@
+TESTNG: -
+          It is an automation testing framework in which NG stands for "Next Generation."
+
+          It is inspired by JUnit which uses the "ANNOTATIONS (@)."
+
+ ---------------------------------------------------------------------------------------------------
+
+FEATURE'S: -
+
+1]Web driver has no native mechanism for generating reports.So TestNg can generate the report in proper & readable format.
+
+2]Multiple test cases can be grouped more easily.
+
+3]Same test case can be executed multiple times without loops.
+
+4]Using testNG you can execute multiple test cases on multiple browser's.
+
+5]The testNG framework can be easily integrated with tools like maven,Jenkins.
+
+6]The annotations used in testNG are very easy to understand.
+
+---------------------------------------------------------------------------------------
+
+POINT'S TO BE REMEMBER.
+
+1]TestNG does not require you have main method.
+
+2]Methods need not to be static
+
+3]We have to use TestNG annotations wherever necessary.
+
+4]We have to use Assertions.
+
+Assert class is used to conduct verification operations in testNG.
+
+Assertions in the TestNG are way to verify the expected result matches the actual result.
+

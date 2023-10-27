@@ -1,0 +1,7 @@
+ENCRYPTION:- It is process of converting plain text data into an unreadable format in order to protect unauthorised access.
+
+To protect our password/sensitive data we can use "BASE64" encoding schema in selenium webDriver.
+
+We have to import this "BASE64" class in our script to decide the password.
+
+

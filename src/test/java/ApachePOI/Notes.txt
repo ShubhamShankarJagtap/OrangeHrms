@@ -1,0 +1,8 @@
+DATA DRIVEN TESTING: -
+
+1] It is a test automation framework which stores test data in a table / spreadsheet
+format (e.g., Excel file.)
+
+2] It is achieved by using java classes and poi library we can manipulate (read/write)
+Excel files in both (xlx/xlsx) file formats in selenium webDriver.
+
