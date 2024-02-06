@@ -1,3 +1,5 @@
+package windowHandling;
+
 import org.openqa.selenium.WindowType;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -35,7 +37,9 @@ public class NewWindow {
         Set<String> allHandles;
         allHandles=chromeDriver.getWindowHandles();
         for (String handles : allHandles){
-            System.out.println(handles);
+//            System.out.println(handles);
+            if (handles.equals(chromeDriver.getCurrentUrl()))
+                chromeDriver.switchTo().window(handles);
         }
         List<String> allHandle = new ArrayList<>(allHandles);
         chromeDriver.switchTo().window(allHandle.get(0));

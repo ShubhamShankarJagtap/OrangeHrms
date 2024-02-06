@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="96327ea0-77b1-4cf3-849f-c313092b7eea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../main/java/com/Reusable_Methods/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoginModule/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PIM_Module/PIM_module.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recruitment_Module/Recruitment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/AnnotationsAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/Automobile_Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG_Demo/Personal_Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Browser/SetBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG_Demo/NG/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoginModule/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoginModule/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/AnnotationsAttribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/Automobile_Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/GroupAttribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/Personal_Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/out/production/TestNG_Demo/com/TestNG_Demo/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG_Demo/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG_Demo/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +32,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2QViJK7GzCkGlgGWmwxZdD5uPXK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/IntelliJ_IDEA_WorkSpace_2023/OrangeHrm/src/test/java/com"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SELENIUM/selenium-java-4.7.2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-249ae16d76d6-e0389a16" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

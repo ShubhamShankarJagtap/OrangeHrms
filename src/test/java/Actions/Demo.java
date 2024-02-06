@@ -7,23 +7,23 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
+import utility.BaseClass;
 
-public class Demo {
-    public static void main(String[] args) {
-        WebDriverManager.chromedriver().setup();
+public class Demo extends BaseClass {
 
-        WebDriver driver = new ChromeDriver();
+    private void seriesOfActions(){
 
-        driver.manage().window().maximize();
-
-        driver.get("https://www.saucedemo.com");
-
+        launchBrowser("chrome", "https://www.saucedemo.com");
         Actions actions = new Actions(driver);
 
         Action seriesOfAction = actions.moveToElement(driver.findElement(By.id("user-name")))
                 .click()
                 .sendKeys("standard_user", Keys.TAB)
-                .sendKeys("secret_sauce",Keys.ENTER).build();
+                .sendKeys("secret_sauce", Keys.ENTER).build();
         seriesOfAction.perform();
+    }
+    public static void main(String[] args) {
+
+      new Demo().seriesOfActions();
     }
 }

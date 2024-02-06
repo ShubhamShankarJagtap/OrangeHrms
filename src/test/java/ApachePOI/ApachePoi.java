@@ -1,7 +1,5 @@
 package ApachePOI;
 
-import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -20,6 +18,7 @@ public class ApachePoi {
     static int totalRows;
     static int totalCells;
     public static void main(String[] args) throws IOException {
+        
         file = new File("F:\\ApachePOI\\ApachePOI.xlsx");
 
         try {
